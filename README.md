@@ -76,6 +76,8 @@ The app is designed mobile-first with clear touch-friendly interactions.
 
 🔲 Booking history for easy tracking
 
+🔲 User can reschedule
+
 The design focuses on reducing friction and making booking fast.
 
 ## 5. How the Design Improves User Experience
@@ -172,11 +174,23 @@ The solution increases efficiency for both patients and clinic staff.
       <img src="Notification.png"/>
     </td>
         <td valign="top">
-      <img src="book-confirmation.jpg"/>
+      <img src="book-confirmation.png"/>
     </td>
         <td valign="top">
       <img src="profile.png"/>
     </td>
   </tr>
  </table>
- 
+
+
+ ## 🖼️ Design Tool
+ ###  Figma 
+
+
+
+
+ ## 🔗 Figma Design File
+
+ View the full interactive design here:
+
+ [Open Figma File](https://www.figma.com/design/8fj8H91T012xhC62EkjO2a/redesign-sante-medical-center?node-id=0-1&t=lsXEAfe6ygKHMB9K-1)
