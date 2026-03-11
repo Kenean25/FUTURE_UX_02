@@ -93,3 +93,69 @@ The redesigned system improves user experience by:
 ✔ Allowing patients to track appointments easily
 
 The solution increases efficiency for both patients and clinic staff.
+
+
+
+ ## 🖼️ Design Screenshots
+
+ ###  Onboarding Screens
+ 
+
+
+ <table>
+  <tr>
+    <td valign="top">
+      <img src="onboarding.png" />
+    </td>
+    <td valign="top">
+      <img src="onboarding1.png"/>
+    </td>
+        <td valign="top">
+      <img src="onboarding2.png"/>
+    </td>
+        <td valign="top">
+      <img src="onboarding3.png"/>
+    </td>
+  </tr>
+ </table>
+
+
+ ###  Sign-in and Sign-up Screens 
+
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="sign-up.png" />
+    </td>
+    <td valign="top">
+      <img src="sign-in.png"/>
+    </td>
+     
+  </tr>
+ </table>
+
+
+
+ 
+ ###  Home ,service ,dentist and date & time selection Screens 
+
+
+
+  <table>
+  <tr>
+    <td valign="top">
+      <img src="home.png" />
+    </td>
+    <td valign="top">
+      <img src="service-selection.png"/>
+    </td>
+        <td valign="top">
+      <img src="dentist-selection.png"/>
+    </td>
+        <td valign="top">
+      <img src="date-time-selection.png"/>
+    </td>
+  </tr>
+ </table>
+ 
