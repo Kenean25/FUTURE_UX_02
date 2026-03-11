@@ -48,7 +48,7 @@ The app solves these problems by providing a digital, structured booking system.
 
 👉 Login / Sign Up
 
-👉 Service Selection (Cleaning, Braces, Whitening, Surgery, etc.)
+👉 Service Selection (Root canal, Braces, Whitening, Consultation, etc.)
 
 👉 Dentist Selection
 
@@ -58,11 +58,13 @@ The app solves these problems by providing a digital, structured booking system.
 
 👉 Booking History
 
+👉 Notification
+
 The app is designed mobile-first with clear touch-friendly interactions.
 
 ## 4. UX Decisions
 
-🔲 Simple 3-step booking flow (Service → Time → Confirm)
+🔲 Simple 4-step booking flow (Service → Dentist → Time → Confirm)
 
 🔲 Large tap targets for accessibility
 
