@@ -138,7 +138,7 @@ The solution increases efficiency for both patients and clinic staff.
 
 
  
- ###  Home ,service ,dentist and date & time selection Screens 
+ ###  Home , service , dentist and date & time selection Screens 
 
 
 
@@ -155,6 +155,27 @@ The solution increases efficiency for both patients and clinic staff.
     </td>
         <td valign="top">
       <img src="date-time-selection.png"/>
+    </td>
+  </tr>
+ </table>
+ 
+
+ ###  History , Notification , book confirmation and Profile Screens 
+
+
+  <table>
+  <tr>
+    <td valign="top">
+      <img src="history.png" />
+    </td>
+    <td valign="top">
+      <img src="Notification.png"/>
+    </td>
+        <td valign="top">
+      <img src="book-confirmation.jpg"/>
+    </td>
+        <td valign="top">
+      <img src="profile.png"/>
     </td>
   </tr>
  </table>
