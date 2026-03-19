@@ -193,4 +193,4 @@ The solution increases efficiency for both patients and clinic staff.
 
  View the full interactive design here:
 
- [Open Figma File](https://www.figma.com/design/8fj8H91T012xhC62EkjO2a/redesign-sante-medical-center?node-id=0-1&t=lsXEAfe6ygKHMB9K-1)
+ [Open Figma File](https://www.figma.com/design/WC00V1qvbrztREFZcGFGTJ/aqua-dental-clinic-appointment-app?node-id=0-1&t=acpx1ihyTMIutpFc-1)
