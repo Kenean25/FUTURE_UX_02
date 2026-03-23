@@ -1,13 +1,12 @@
-# FUTURE_UX_02
-Appointment booking app for Aqua dental clinic , Ethiopia
+## FUTURE_UX_02 
+### Appointment booking app for Aqua dental clinic , Ethiopia
 
 ### Project Overview
 
 This project focuses on designing a mobile-first appointment booking app for Aqua dental clinic.
-
 The goal is to create a simple, intuitive, and user-friendly mobile app that allows patients to easily book dental appointments, manage bookings, and receive confirmations.This is designed as a real-world solution for a local dental clinic.
 
-## 1. Target Users
+### 1. Target Users
 
 The app is designed for:
 
@@ -22,7 +21,7 @@ The app is designed for:
 
 ✔ The design prioritizes speed, clarity, and ease of use.
 
-## 2. User Problem
+### 2. User Problem
 
 Currently, appointments are managed through:
 
@@ -42,7 +41,7 @@ This causes:
 
 The app solves these problems by providing a digital, structured booking system.
 
-## 3. Key Screens Designed
+### 3. Key Screens Designed
 
 👉 Onboarding / Welcome Screen
 
@@ -62,7 +61,7 @@ The app solves these problems by providing a digital, structured booking system.
 
 The app is designed mobile-first with clear touch-friendly interactions.
 
-## 4. UX Decisions
+### 4. UX Decisions
 
 🔲 Simple 4-step booking flow (Service → Dentist → Time → Confirm)
 
@@ -80,7 +79,7 @@ The app is designed mobile-first with clear touch-friendly interactions.
 
 The design focuses on reducing friction and making booking fast.
 
-## 5. How the Design Improves User Experience
+### 5. How the Design Improves User Experience
 
 The redesigned system improves user experience by:
 
@@ -98,9 +97,9 @@ The solution increases efficiency for both patients and clinic staff.
 
 
 
- ## 🖼️ Design Screenshots
+ ### 🖼️ Design Screenshots
 
- ###  Onboarding Screens
+ ####  Onboarding Screens
  
 
 
@@ -122,7 +121,7 @@ The solution increases efficiency for both patients and clinic staff.
  </table>
 
 
- ###  Sign-in and Sign-up Screens 
+ ####  Sign-in and Sign-up Screens 
 
 
 <table>
@@ -140,7 +139,7 @@ The solution increases efficiency for both patients and clinic staff.
 
 
  
- ###  Home , service , dentist and date & time selection Screens 
+ ####  Home , service , dentist and date & time selection Screens 
 
 
 
@@ -162,7 +161,7 @@ The solution increases efficiency for both patients and clinic staff.
  </table>
  
 
- ###  History , Notification , book confirmation and Profile Screens 
+ ####  History , Notification , book confirmation and Profile Screens 
 
 
   <table>
@@ -183,8 +182,8 @@ The solution increases efficiency for both patients and clinic staff.
  </table>
 
 
- ## 🖼️ Design Tool
- ###  Figma 
+ ### 🖼️ Design Tool
+ ####  Figma 
 
 
 
