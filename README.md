@@ -182,8 +182,8 @@ The solution increases efficiency for both patients and clinic staff.
  </table>
 
 
- ### 🖼️ Design Tool
- ####  Figma 
+ ## 🖼️ Design Tool
+ ###  Figma 
 
 
 
